@@ -1,0 +1,9 @@
+Run first
+$ cc server.c
+$ ./a.out
+$ cc client.c
+$ ./a.out
+
+Enter Admin Credentials as 
+$ Name :- Bank
+$ Password :- Bank123
